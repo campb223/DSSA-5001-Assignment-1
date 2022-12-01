@@ -15,6 +15,9 @@
     + What are the range of values that occur most frequently? 
 
 
+#### NOTE:
+The file `Spotify_Charts.csv` was too large for me to upload to Github. You'll need to place this file in Data on your end. 
+
 ## Part 2
 
 ### Goals
@@ -31,3 +34,9 @@ through the EDA process, writing down new questions that arise as you observe an
 data as comments. Not only is this best practice, but you’ll be able to reference your analysis in 
 detail in the future. The code is secondary to your thought process and insights about your 
 findings. 
+
+
+## Findings / Results
+I believe this was a great assignment. It gives us real world practice with data where you we need to group by, find sums, etc. In the past I've watched videos about Data Science and they indicate they're tasked with finding results of data within a few days. It's nice to see how easy/quick that can be when you:
+1. Have the necessary data
+2. Know the questions you need/want to answer. 
