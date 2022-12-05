@@ -37,6 +37,6 @@ findings.
 
 
 ## Findings / Results
-I believe this was a great assignment. It gives us real world practice with data where you we need to group by, find sums, etc. In the past I've watched videos about Data Science and they indicate they're tasked with finding results of data within a few days. It's nice to see how easy/quick that can be when you:
+I believe this was a great assignment. It gives us real world practice with data where you we need to group by, find sums, etc. In the past I've seen videos from Data Scientist and they indicate they could be tasked with finding results of data within a few days. It's nice to see how easy/quick that can be when you:
 1. Have the necessary data
 2. Know the questions you need/want to answer. 
